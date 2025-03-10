@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @moanv2
-- 👀 I’m interested in Data science and Cybersecurity
+- 👋 Hi, I’m Diego !
+- 👀 I’m interested in Data science, Cybersecurity & Videogames
 - 🌱 I’m currently learning Machine learning libraries
 - 💞️ I’m looking to collaborate on any project in Python, R, or a website.
 - ⚡ Fun fact: GM in rivals... 
