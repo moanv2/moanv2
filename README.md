@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Diego !
-- 👀 I’m interested in Data science, Cybersecurity & Videogames
-- 🌱 I’m currently learning Machine learning libraries
+- 👀 I’m interested in Data Science, Cybersecurity & Videogames
+- 🌱 I’m currently learning ML/DL libraries & participating in hackathons
 - 💞️ I’m looking to collaborate on any project in Python, R, or a website.
 - ⚡ Fun fact: GM in rivals... 
 
