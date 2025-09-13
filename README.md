@@ -19,4 +19,4 @@
 
 ----------------------------------------------
 
-Diego | Msc Data Science & Business Analytics | Interested in ML/DL | I love my cat Papaya
+Msc Data Science & Business Analytics | Interested in ML/DL | I love my cat Papaya
