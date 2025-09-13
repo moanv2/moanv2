@@ -74,12 +74,6 @@
         4?bMHRm$$$M'  M3MMMMMMMMMHM9XMM$$$$$$$$$$$F :MMMMtM
       Mn9$$$$MMM**    MWMXMMMMMMMMMMXhP$$$$$$$$$$$  RMMMM4M
     .nt@$$$$$M?M""    MRHMMMMMMMMMMMXSM$$$$$$$$$$  @MMMMM4M
-  .n*$$$$$$$$E#4      MRMMMMMMMMMMMMS*H$$$$$$$$$` d$MMMMM4M
-. MQ$$$$$$$$%XM/      MRMMMMMMMMMMMMhXk$$$$$$$$F  $$MMMMM4M
-Mt@$$$#$$$$3H"        MMMMMMMMMMMMMMPEM$$$$$$$$$e$$MMMMMM4M
-M$$$#>!d$$PM          MMMMMMMMMMMMMM@HM$$$$$$$$$$$$MMMMMMXM
-------------------------------------------------
-
 <!---
 moanv2/moanv2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
