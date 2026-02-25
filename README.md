@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2d3a2e,100:4a5a3a&height=200&section=header&text=moanv2&fontSize=42&fontColor=c8c0a8&fontAlignY=35&desc=Data%20Science%20•%20DevOps%20•%20Machine%20Learning%20•%20Analytics&descSize=14&descColor=8a9a7a&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2d3a2e,100:4a5a3a&height=200&section=header&text=Diego&fontSize=42&fontColor=c8c0a8&fontAlignY=35&desc=Data%20Science%20•%20DevOps%20•%20Machine%20Learning%20•%20Analytics&descSize=14&descColor=8a9a7a&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- BIO -->
 <br>
