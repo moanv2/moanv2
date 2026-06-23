@@ -1,130 +1,114 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2d3a2e,100:4a5a3a&height=200&section=header&text=Diego&fontSize=42&fontColor=c8c0a8&fontAlignY=35&desc=Data%20Science%20•%20DevOps%20•%20Machine%20Learning%20•%20Analytics&descSize=14&descColor=8a9a7a&descAlignY=55&animation=fadeIn" width="100%"/>
+<!-- ═══════════════════ HEADER BANNER ═══════════════════ -->
 
-<!-- BIO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:86cecb,45:137a7f,100:e12885&height=210&section=header&text=Diego.&fontSize=72&fontColor=0e1011&fontAlignY=38&desc=//%20gm%20%E2%80%94%20welcome%20to%20my%20repo&descSize=15&descColor=0e1011&descAlignY=60&animation=fadeIn" width="100%"/>
+
 <br>
 
-**Master's in Data Science & Business Analytics @ IE School of Science and Technology**
+<!-- TAGS -->
+<img src="https://img.shields.io/badge/DATA%20SCIENCE-86cecb?style=for-the-badge&labelColor=86cecb" alt="Data Science"/>
+&nbsp;
+<img src="https://img.shields.io/badge/DEVOPS-373b3e?style=for-the-badge&labelColor=373b3e" alt="DevOps"/>
+&nbsp;
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-373b3e?style=for-the-badge&labelColor=373b3e" alt="Machine Learning"/>
+&nbsp;
+<img src="https://img.shields.io/badge/ANALYTICS-e12885?style=for-the-badge&labelColor=e12885" alt="Analytics"/>
 
-Data Engineer • Data Analyst • Looking for Work
+<br><br>
 
-*I fix things, occasionally break them too.*
+**Master's in Data Science &amp; Business Analytics `@` IE School of Science and Technology**
+
+`Data Engineer` ◆ `Data Analyst` ◆ **`Looking for Work`**
+
+*"I fix things, occasionally break them too."*
 
 <br>
 
 <!-- ═══════════════════ TECH STACK ═══════════════════ -->
 
-<h3>Tech Stack</h3>
+<picture><img src="https://capsule-render.vercel.app/api?type=rect&color=0:137a7f,100:0e1011&height=2&width=720&section=header" width="0"/></picture>
+
+### `// TECH STACK`
 
 <br>
 
-<a href="#">
-  <img src="https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=8a9a7a" alt="Python"/>
-</a>
+<img src="https://img.shields.io/badge/PYTHON-373b3e?style=for-the-badge&logo=python&logoColor=86cecb" alt="Python"/>
 &nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/SQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=8a9a7a" alt="SQL"/>
-</a>
+<img src="https://img.shields.io/badge/SQL-373b3e?style=for-the-badge&logo=postgresql&logoColor=137a7f" alt="SQL"/>
 &nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/Bash-1a1a1a?style=for-the-badge&logo=gnubash&logoColor=8a9a7a" alt="Bash"/>
-</a>
+<img src="https://img.shields.io/badge/BASH-373b3e?style=for-the-badge&logo=gnubash&logoColor=bec8d1" alt="Bash"/>
 
 <br>
 
-<a href="#">
-  <img src="https://img.shields.io/badge/MySQL-1a1a1a?style=for-the-badge&logo=mysql&logoColor=8a9a7a" alt="MySQL"/>
-</a>
+<img src="https://img.shields.io/badge/MYSQL-373b3e?style=for-the-badge&logo=mysql&logoColor=137a7f" alt="MySQL"/>
 &nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/PostgreSQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=8a9a7a" alt="PostgreSQL"/>
-</a>
+<img src="https://img.shields.io/badge/POSTGRESQL-373b3e?style=for-the-badge&logo=postgresql&logoColor=86cecb" alt="PostgreSQL"/>
 &nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/Redis-1a1a1a?style=for-the-badge&logo=redis&logoColor=8a9a7a" alt="Redis"/>
-</a>
+<img src="https://img.shields.io/badge/REDIS-373b3e?style=for-the-badge&logo=redis&logoColor=e12885" alt="Redis"/>
 
 <br>
 
-<a href="#">
-  <img src="https://img.shields.io/badge/Pandas-1a1a1a?style=for-the-badge&logo=pandas&logoColor=8a9a7a" alt="Pandas"/>
-</a>
+<img src="https://img.shields.io/badge/PANDAS-373b3e?style=for-the-badge&logo=pandas&logoColor=86cecb" alt="Pandas"/>
 &nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/Scikit--Learn-1a1a1a?style=for-the-badge&logo=scikitlearn&logoColor=8a9a7a" alt="Scikit-Learn"/>
-</a>
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-373b3e?style=for-the-badge&logo=scikitlearn&logoColor=137a7f" alt="Scikit-Learn"/>
 &nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/Power%20BI-1a1a1a?style=for-the-badge&logo=powerbi&logoColor=8a9a7a" alt="Power BI"/>
-</a>
+<img src="https://img.shields.io/badge/POWER%20BI-373b3e?style=for-the-badge&logo=powerbi&logoColor=e12885" alt="Power BI"/>
 
 <br>
 
-<a href="#">
-  <img src="https://img.shields.io/badge/Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=8a9a7a" alt="Docker"/>
-</a>
+<img src="https://img.shields.io/badge/DOCKER-373b3e?style=for-the-badge&logo=docker&logoColor=86cecb" alt="Docker"/>
 &nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/Kubernetes-1a1a1a?style=for-the-badge&logo=kubernetes&logoColor=8a9a7a" alt="Kubernetes"/>
-</a>
+<img src="https://img.shields.io/badge/KUBERNETES-373b3e?style=for-the-badge&logo=kubernetes&logoColor=137a7f" alt="Kubernetes"/>
 &nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/AWS-1a1a1a?style=for-the-badge&logo=amazonwebservices&logoColor=8a9a7a" alt="AWS"/>
-</a>
+<img src="https://img.shields.io/badge/AWS-373b3e?style=for-the-badge&logo=amazonwebservices&logoColor=bec8d1" alt="AWS"/>
 
 <br>
 
-<a href="#">
-  <img src="https://img.shields.io/badge/TensorFlow-1a1a1a?style=for-the-badge&logo=tensorflow&logoColor=8a9a7a" alt="TensorFlow"/>
-</a>
+<img src="https://img.shields.io/badge/TENSORFLOW-373b3e?style=for-the-badge&logo=tensorflow&logoColor=e12885" alt="TensorFlow"/>
 &nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/Kafka-1a1a1a?style=for-the-badge&logo=apachekafka&logoColor=8a9a7a" alt="Kafka"/>
-</a>
+<img src="https://img.shields.io/badge/KAFKA-373b3e?style=for-the-badge&logo=apachekafka&logoColor=137a7f" alt="Kafka"/>
 &nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/Hadoop-1a1a1a?style=for-the-badge&logo=apachehadoop&logoColor=8a9a7a" alt="Hadoop"/>
-</a>
+<img src="https://img.shields.io/badge/HADOOP-373b3e?style=for-the-badge&logo=apachehadoop&logoColor=86cecb" alt="Hadoop"/>
 
 <br>
 
-<a href="#">
-  <img src="https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=8a9a7a" alt="Linux"/>
-</a>
+<img src="https://img.shields.io/badge/LINUX-373b3e?style=for-the-badge&logo=linux&logoColor=bec8d1" alt="Linux"/>
 &nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=8a9a7a" alt="Git"/>
-</a>
+<img src="https://img.shields.io/badge/GIT-373b3e?style=for-the-badge&logo=git&logoColor=e12885" alt="Git"/>
 &nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/GraphQL-1a1a1a?style=for-the-badge&logo=graphql&logoColor=8a9a7a" alt="GraphQL"/>
-</a>
+<img src="https://img.shields.io/badge/GRAPHQL-373b3e?style=for-the-badge&logo=graphql&logoColor=137a7f" alt="GraphQL"/>
 
 <br><br>
 
-<!-- ═══════════════════ STREAK ═══════════════════ -->
+<!-- ═══════════════════ STATS (live) ═══════════════════ -->
 
-<a href="#">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moanv2&background=1a1a1a&stroke=2d3a2e&ring=4a5a3a&fire=c8c0a8&currStreakNum=c8c0a8&sideNums=8a9a7a&currStreakLabel=8a9a7a&sideLabels=6b7a5a&dates=4a5a3a&border=2d3a2e" alt="GitHub Streak"/>
-</a>
+### `$ git log --stat`
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=moanv2&show_icons=true&hide_border=false&bg_color=0e1011&title_color=86cecb&text_color=bec8d1&icon_color=e12885&border_color=137a7f" alt="GitHub Stats" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=moanv2&background=0e1011&stroke=137a7f&ring=86cecb&fire=e12885&currStreakNum=86cecb&sideNums=bec8d1&currStreakLabel=86cecb&sideLabels=bec8d1&dates=137a7f&border=137a7f" alt="GitHub Streak" height="170"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moanv2&layout=compact&bg_color=0e1011&title_color=86cecb&text_color=bec8d1&border_color=137a7f" alt="Top Languages" height="150"/>
 
 <br><br>
 
 <!-- ═══════════════════ CONNECT ═══════════════════ -->
 
-<h3>Connect w me</h3>
+### `// CONNECT W ME`
 
 <br>
 
 <a href="https://www.linkedin.com/in/dalfarog/">
-  <img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=8a9a7a" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-373b3e?style=for-the-badge&logo=linkedin&logoColor=86cecb" alt="LinkedIn"/>
 </a>
 
 <br><br>
 
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a5a3a,50:2d3a2e,100:1a1a1a&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e12885,55:137a7f,100:0e1011&height=120&section=footer&text=%3C/%3E%20powered%20by%20coffee%20%26%20teal%20%C2%B7%2001&fontSize=14&fontColor=bec8d1&fontAlignY=72" width="100%"/>
 
 </div>
