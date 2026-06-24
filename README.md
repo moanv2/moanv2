@@ -9,11 +9,11 @@
 <!-- TAGS -->
 <img src="https://img.shields.io/badge/DATA%20SCIENCE-86cecb?style=for-the-badge&labelColor=86cecb" alt="Data Science"/>
 &nbsp;
-<img src="https://img.shields.io/badge/DEVOPS-373b3e?style=for-the-badge&labelColor=373b3e" alt="DevOps"/>
+<img src="https://img.shields.io/badge/DEVOPS-373b3e?style=for-the-badge&labelColor=373b3e" alt="Data Engineering"/>
 &nbsp;
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-373b3e?style=for-the-badge&labelColor=373b3e" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-373b3e?style=for-the-badge&labelColor=373b3e" alt="Reinforcement Learning"/>
 &nbsp;
-<img src="https://img.shields.io/badge/ANALYTICS-e12885?style=for-the-badge&labelColor=e12885" alt="Analytics"/>
+<img src="https://img.shields.io/badge/ANALYTICS-e12885?style=for-the-badge&labelColor=e12885" alt="DevOps"/>
 
 <br><br>
 
