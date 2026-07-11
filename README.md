@@ -85,9 +85,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=moanv2&background=0e1011&stroke=137a7f&ring=86cecb&fire=e12885&currStreakNum=86cecb&sideNums=bec8d1&currStreakLabel=86cecb&sideLabels=bec8d1&dates=137a7f&border=137a7f" alt="GitHub Streak" height="170"/>
 
-<br><br>
-
-<img src="https://ghchart.rshah.org/86cecb/moanv2" alt="Contribution Graph" width="760"/>
 
 <br><br>
 
