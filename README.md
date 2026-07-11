@@ -43,13 +43,33 @@
 
 `// ml & data`
 
-<img src="https://img.shields.io/badge/PANDAS-373b3e?style=for-the-badge&logo=pandas&logoColor=e12885" alt="Pandas"/>
-&nbsp;
-<img src="https://img.shields.io/badge/SCIKIT--LEARN-373b3e?style=for-the-badge&logo=scikitlearn&logoColor=e12885" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/PYTORCH-373b3e?style=for-the-badge&logo=pytorch&logoColor=e12885" alt="PyTorch"/>
 &nbsp;
 <img src="https://img.shields.io/badge/TENSORFLOW-373b3e?style=for-the-badge&logo=tensorflow&logoColor=e12885" alt="TensorFlow"/>
 &nbsp;
 <img src="https://img.shields.io/badge/KERAS-373b3e?style=for-the-badge&logo=keras&logoColor=e12885" alt="Keras"/>
+&nbsp;
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-373b3e?style=for-the-badge&logo=scikitlearn&logoColor=e12885" alt="Scikit-learn"/>
+
+<img src="https://img.shields.io/badge/PANDAS-373b3e?style=for-the-badge&logo=pandas&logoColor=e12885" alt="Pandas"/>
+&nbsp;
+<img src="https://img.shields.io/badge/OPENCV-373b3e?style=for-the-badge&logo=opencv&logoColor=e12885" alt="OpenCV"/>
+&nbsp;
+<img src="https://img.shields.io/badge/W%26B-373b3e?style=for-the-badge&logo=weightsandbiases&logoColor=e12885" alt="Weights & Biases"/>
+
+<br>
+
+`// data engineering`
+
+<img src="https://img.shields.io/badge/POSTGRESQL-373b3e?style=for-the-badge&logo=postgresql&logoColor=86cecb" alt="PostgreSQL"/>
+&nbsp;
+<img src="https://img.shields.io/badge/MYSQL-373b3e?style=for-the-badge&logo=mysql&logoColor=86cecb" alt="MySQL"/>
+&nbsp;
+<img src="https://img.shields.io/badge/REDIS-373b3e?style=for-the-badge&logo=redis&logoColor=86cecb" alt="Redis"/>
+&nbsp;
+<img src="https://img.shields.io/badge/DUCKDB-373b3e?style=for-the-badge&logo=duckdb&logoColor=86cecb" alt="DuckDB"/>
+&nbsp;
+<img src="https://img.shields.io/badge/KAFKA-373b3e?style=for-the-badge&logo=apachekafka&logoColor=86cecb" alt="Apache Kafka"/>
 
 <br>
 
@@ -65,15 +85,17 @@
 
 `// devops & tools`
 
-<img src="https://img.shields.io/badge/DOCKER-373b3e?style=for-the-badge&logo=docker&logoColor=86cecb" alt="Docker"/>
+<img src="https://img.shields.io/badge/DOCKER-373b3e?style=for-the-badge&logo=docker&logoColor=e12885" alt="Docker"/>
 &nbsp;
-<img src="https://img.shields.io/badge/KUBERNETES-373b3e?style=for-the-badge&logo=kubernetes&logoColor=86cecb" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/KUBERNETES-373b3e?style=for-the-badge&logo=kubernetes&logoColor=e12885" alt="Kubernetes"/>
 &nbsp;
-<img src="https://img.shields.io/badge/MYSQL-373b3e?style=for-the-badge&logo=mysql&logoColor=86cecb" alt="MySQL"/>
+<img src="https://img.shields.io/badge/GITHUB%20ACTIONS-373b3e?style=for-the-badge&logo=githubactions&logoColor=e12885" alt="GitHub Actions"/>
+
+<img src="https://img.shields.io/badge/FASTAPI-373b3e?style=for-the-badge&logo=fastapi&logoColor=e12885" alt="FastAPI"/>
 &nbsp;
-<img src="https://img.shields.io/badge/LINUX-373b3e?style=for-the-badge&logo=linux&logoColor=86cecb" alt="Linux"/>
+<img src="https://img.shields.io/badge/LINUX-373b3e?style=for-the-badge&logo=linux&logoColor=e12885" alt="Linux"/>
 &nbsp;
-<img src="https://img.shields.io/badge/GIT-373b3e?style=for-the-badge&logo=git&logoColor=86cecb" alt="Git"/>
+<img src="https://img.shields.io/badge/GIT-373b3e?style=for-the-badge&logo=git&logoColor=e12885" alt="Git"/>
 
 <br><br>
 
