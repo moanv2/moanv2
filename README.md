@@ -21,8 +21,6 @@
 
 `Data Engineer` ◆ `Techno Enjoyer` ◆ **`Certified Freethinker`**
 
-*"I fix things, occasionally break them too."*
-
 <br>
 
 <!-- ═══════════════════ TECH STACK ═══════════════════ -->
