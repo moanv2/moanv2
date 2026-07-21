@@ -17,7 +17,7 @@
 
 <br><br>
 
-**Master's in Data Science &amp; Business Analytics `@` IE School of Science and Technology**
+**Master's in Data Science &amp; Business Analytics | Keep Creating not Buying**
 
 `Data Engineer` ◆ `Data Analyst` ◆ **`Looking for Work`**
 
