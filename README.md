@@ -19,7 +19,7 @@
 
 **Master's in Data Science &amp; Business Analytics | Keep Creating not Buying**
 
-`Data Engineer` ◆ `Data Analyst` ◆ **`Looking for Work`**
+`Data Engineer` ◆ `Techno Enjoyer` ◆ **`Certified Freethinker`**
 
 *"I fix things, occasionally break them too."*
 
